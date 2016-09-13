@@ -74,6 +74,7 @@ public class Functions {
 				.size();
 		b=kol-1;
 		System.out.println("Количество отправленных писем равно  "+ b);
+		System.out.println("Test");
 		return kol;
 	}
 	public static void logOut(WebDriver driver) {	
